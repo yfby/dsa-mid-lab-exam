@@ -15,7 +15,8 @@ not enough. You must **prove motive, means and opportunity** with a chain of clu
 | Harvey Kyle T. Ybanez| Gameplay programmer | _e.g. `Game.accuse`, win/loss rules, action points_ |
 | Gian L. Edralin | Data structures and algorithms programmer | _e.g. `algorithms.py`_ |
 | Prince Heart C. Go | Interface and asset designer | _e.g. `ui.py` drawing code_ |
-| Sam Kerby V. Bernales | QA, documentation and release lead | _e.g. `tests/`, this README_ |
+| Sam Kerby V. Bernales | documentation and release lead | _e.g. `tests/`, this README_ |
+| Kryz Adrian Banaag | QA | _e.g. `tests/`, this README_ |
 
 *(Fill in your real names and the files/functions each person wrote.)*
 
