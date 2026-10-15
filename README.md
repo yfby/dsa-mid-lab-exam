@@ -11,11 +11,11 @@ not enough. You must **prove motive, means and opportunity** with a chain of clu
 
 | Member | Primary role | Main code contribution |
 |---|---|---|
-| _Name 1_ | Team coordinator and integrator | _e.g. `game_state.py` integration, `ui.py` scene flow_ |
-| _Name 2_ | Gameplay programmer | _e.g. `Game.accuse`, win/loss rules, action points_ |
-| _Name 3_ | Data structures and algorithms programmer | _e.g. `algorithms.py`_ |
-| _Name 4_ | Interface and asset designer | _e.g. `ui.py` drawing code_ |
-| _Name 5_ | QA, documentation and release lead | _e.g. `tests/`, this README_ |
+| Bryan Nino C. Behiga | Team coordinator and integrator | _e.g. `game_state.py` integration, `ui.py` scene flow_ |
+| Harvey Kyle T. Ybanez| Gameplay programmer | _e.g. `Game.accuse`, win/loss rules, action points_ |
+| Gian L. Edralin | Data structures and algorithms programmer | _e.g. `algorithms.py`_ |
+| Prince Heart C. Go | Interface and asset designer | _e.g. `ui.py` drawing code_ |
+| Sam Kerby V. Bernales | QA, documentation and release lead | _e.g. `tests/`, this README_ |
 
 *(Fill in your real names and the files/functions each person wrote.)*
 
@@ -155,8 +155,3 @@ No external art, sound or font files are used. Everything is drawn with pygame
 primitives, and text uses pygame's built-in default font. All story text, names and
 characters are original to this project.
 
-## Bug log
-
-| Bug | Fix | Who |
-|---|---|---|
-| _Add your team's real bugs here_ | | |
